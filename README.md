@@ -1,13 +1,11 @@
 <p align="center">
   <img alt="OiPunk profile header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Oi!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://oipunk.github.io/portfolio">
     <img alt="Typing intro for Weiguang Li" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=39D353&center=true&vCenter=true&width=760&lines=Oi!+I'm+Weiguang+Li;Backend+Engineer+%7C+5%2B+years+internet-scale+services;All-in+on+AI+%7C+Learning+LLM%2FAgent+Architectures;Contributing+to+Open+Source;Open+to+work:+On-site+or+Remote" />
   </a>
 </p>
-
 ### Oi! I'm Weiguang Li
 - Backend engineer with 5+ years building internet-scale services.
 - Fully embracing AI — learning AI/agent architectures and contributing to open source.
