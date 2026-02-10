@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="OiPunk profile header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=OiPunk&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img alt="OiPunk profile header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -10,25 +10,22 @@
 
 ### Oi! 👋 I'm Weiguang Li
 
-Backend engineer with 5+ years building internet-scale services.  
-Now fully embracing AI — learning modern AI/agent architectures and contributing to open source.
+\- Backend engineer with 5+ years building internet-scale services.  
+\- Now fully embracing AI — learning modern AI/agent architectures and contributing to open source.
 
 - 💻 Focus: backend • high concurrency • distributed systems
 - 🤖 Currently learning: LLM apps • AI Agents • MLOps fundamentals
 - 🛠️ Open to collaborate: practical AI + backend projects
 - ✅ Open to work: on-site or remote
 
-Open to Backend Engineer and AI Engineer opportunities.  
-Fastest response channel: LinkedIn.
-
-#### 📫 Let's Connect
+#### 📫 Connect
 <p align="center">
   <a href="https://oipunk.github.io/portfolio"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/weiguang-li"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/CodingPunkOi"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-#### 🛠 My Tech Stack
+#### 🛠 Stack
 <p align="center">
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
 </p>
