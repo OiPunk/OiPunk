@@ -1,5 +1,8 @@
 <p align="center">
-  <img alt="OiPunk profile header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Oi!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img alt="OiPunk profile header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Oi!&fontSize=54&animation=fadeIn&fontAlignY=38"
+    width="100%" />
+</p>
 </p>
 <p align="center">
   <a href="https://oipunk.github.io/portfolio">
