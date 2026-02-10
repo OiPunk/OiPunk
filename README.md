@@ -18,13 +18,6 @@
 - 🛠️ Open to collaborate: practical AI + backend projects
 - ✅ Open to work: on-site or remote
 
-#### 📫 Connect
-<p align="center">
-  <a href="https://oipunk.github.io/portfolio"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/weiguang-li"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/CodingPunkOi"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
 #### 🛠 Stack
 <p align="center">
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
