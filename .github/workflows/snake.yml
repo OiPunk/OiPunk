@@ -15,22 +15,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ github.token }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: header,activity,community,repositories,metadata
-          config_timezone: Asia/Shanghai
-          filename: github-metrics.svg
-          output_action: none
-
-      - name: Copy metrics to dist
-        run: |
-          mkdir -p dist
-          cp /metrics_renders/github-metrics.svg dist/github-metrics.svg
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
