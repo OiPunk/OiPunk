@@ -16,6 +16,7 @@
 - Currently learning: LLM • AI Agents • MLOps fundamentals
 - Open to work: on-site / remote
 
+
 <p align="center">
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
 </p>
