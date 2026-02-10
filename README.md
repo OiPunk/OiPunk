@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="OiPunk profile header"
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=100&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"
     width="100%" />
 </p>
 
@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
