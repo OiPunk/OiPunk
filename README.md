@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="OiPunk profile header"
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=🐱&fontSize=30&animation=fadeIn&fontAlignY=30"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=🐱&fontSize=42&animation=fadeIn&fontAlignY=30"
     width="100%" />
 </p>
 
@@ -11,7 +11,6 @@
   </a>
 </p>
 
-### Oi! I'm Weiguang Li
 - Backend engineer with 5+ years building internet-scale services.
 - Fully embracing AI — learning AI/agent architectures and contributing to open source.
 - Open to work: on-site / remote.
