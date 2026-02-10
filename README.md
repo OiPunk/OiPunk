@@ -27,15 +27,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <img alt="Profile details card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OiPunk&theme=github_dark" />
-</p>
-<p align="center">
-  <img alt="GitHub stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OiPunk&theme=github_dark" />
-  <img alt="Productive time card" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OiPunk&theme=github_dark&utcOffset=8" />
-</p>
-<p align="center">
-  <img alt="Repos per language card" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OiPunk&theme=github_dark" />
-  <img alt="Most commit language card" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OiPunk&theme=github_dark" />
-</p>
