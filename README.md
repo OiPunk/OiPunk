@@ -31,7 +31,7 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
 
 ### 🛠 My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,go,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
 </p>
 
 ### 🔥 GitHub Streak
