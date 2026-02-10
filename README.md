@@ -51,15 +51,15 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
 
 ### 🧩 GitHub Summary Cards
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OiPunk&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OiPunk&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OiPunk&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OiPunk&theme=github&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OiPunk&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OiPunk&theme=github_dark&utcOffset=8" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OiPunk&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OiPunk&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OiPunk&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OiPunk&theme=github_dark" />
 </p>
 
 ### 🐍 My Contributions Snake
