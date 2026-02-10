@@ -1,13 +1,13 @@
 <p align="center">
   <img alt="OiPunk profile header"
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=🐱&fontSize=30&animation=fadeIn&fontAlignY=24"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=🐱&fontSize=15&animation=fadeIn&fontAlignY=15"
     width="100%" />
 </p>
 
 <p align="center">
   <a href="https://oipunk.github.io">
     <img alt="Typing intro for Weiguang Li"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=39D353&center=true&vCenter=true&width=760&height=15&lines=Oi!+I'm+Weiguang+Li;Backend+Engineer+%7C+5%2B+years+internet-scale+services;All-in+on+AI+%7C+Learning+LLM%2FAgent+Architectures;Contributing+to+Open+Source;Open+to+work:+On-site+or+Remote" />
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=39D353&center=true&vCenter=true&width=760&height=24&lines=Oi!+I'm+Weiguang+Li;Backend+Engineer+%7C+5%2B+years+internet-scale+services;All-in+on+AI+%7C+Learning+LLM%2FAgent+Architectures;Contributing+to+Open+Source;Open+to+work:+On-site+or+Remote" />
   </a>
 </p>
 
