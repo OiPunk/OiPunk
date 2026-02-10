@@ -30,10 +30,6 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=OiPunk&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p align="center">
   <img alt="Profile details card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OiPunk&theme=github_dark" />
 </p>
 <p align="center">
