@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Oi! 👋 I'm Weiguang Li
+### Oi! 👋 I'm Weiguang Li
 
 Backend engineer with 5+ years building internet-scale services.  
 Now fully embracing AI — learning modern AI/agent architectures and contributing to open source.
@@ -21,7 +21,7 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
 Open to Backend Engineer and AI Engineer opportunities.  
 Fastest response channel: LinkedIn.
 
-### ⚡ Live Badges
+#### ⚡ Live Badges
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=OiPunk&style=for-the-badge&color=0e75b6" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/OiPunk?label=Followers&style=for-the-badge" />
@@ -30,24 +30,23 @@ Fastest response channel: LinkedIn.
   <img alt="Snake workflow status" src="https://img.shields.io/github/actions/workflow/status/OiPunk/OiPunk/snake.yml?branch=main&style=for-the-badge&label=Snake+Workflow" />
 </p>
 
-### 📫 Let's Connect
+#### 📫 Let's Connect
 <p align="center">
   <a href="https://oipunk.github.io/portfolio"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/weiguang-li"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/CodingPunkOi"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-### 🛠 My Tech Stack
+#### 🛠 My Tech Stack
 <p align="center">
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
 </p>
 
-### 🚀 Featured Projects
+#### 🚀 Featured Projects
 - [Rydr](https://github.com/OiPunk/rydr): A complete ride-hailing platform built with Spring Cloud microservices.
 - [Tripy](https://github.com/OiPunk/tripy): A graph-native enterprise travel assistant platform with FastAPI, LangGraph, RBAC, and OpenTelemetry.
 - [Complyra](https://github.com/OiPunk/complyra): A production-oriented enterprise private knowledge assistant with multi-tenant RAG and approval workflows.
 
-### 🧩 GitHub Summary Cards
 <p align="center">
   <img alt="Profile details card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OiPunk&theme=github_dark" />
 </p>
@@ -59,13 +58,9 @@ Fastest response channel: LinkedIn.
   <img alt="Repos per language card" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OiPunk&theme=github_dark" />
   <img alt="Most commit language card" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OiPunk&theme=github_dark" />
 </p>
-
-### 🔥 GitHub Streak
 <p align="center">
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=OiPunk&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
-
-### 🐍 My Contributions Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake-dark.svg" />
