@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -19,6 +22,22 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ github.token }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header,activity,community,repositories,metadata
+          config_timezone: Asia/Shanghai
+          filename: github-metrics.svg
+          output_action: none
+
+      - name: Copy metrics to dist
+        run: |
+          mkdir -p dist
+          cp /metrics_renders/github-metrics.svg dist/github-metrics.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

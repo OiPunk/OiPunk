@@ -26,7 +26,7 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
 </p>
 
 ### 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/OiPunk?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FShanghai)
+![Metrics](https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-metrics.svg)
 
 ### 🐍 My Contributions Snake
 <p align="center">
