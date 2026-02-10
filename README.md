@@ -20,13 +20,47 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
 - 🛠️ Open to collaborate: practical AI + backend projects
 - ✅ Open to work: on-site or remote
 
+### ⚡ Live Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OiPunk&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/OiPunk?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/OiPunk?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/OiPunk/OiPunk?style=for-the-badge" />
+  <img src="https://img.shields.io/github/actions/workflow/status/OiPunk/OiPunk/snake.yml?branch=main&style=for-the-badge&label=Snake+Workflow" />
+</p>
+
 ### 🛠 My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,go,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=8" />
 </p>
 
-### 📊 GitHub Stats
-![Metrics](https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-metrics.svg)
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OiPunk&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-metrics.svg" />
+</p>
+
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OiPunk&bg_color=00000000&hide_border=true&line=00A36C&point=1f6feb&area=true&area_color=00A36C" />
+</p>
+
+### 🧩 GitHub Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OiPunk&theme=github" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OiPunk&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OiPunk&theme=github&utcOffset=8" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OiPunk&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OiPunk&theme=github" />
+</p>
 
 ### 🐍 My Contributions Snake
 <p align="center">
