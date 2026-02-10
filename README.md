@@ -10,8 +10,6 @@
   </a>
 </p>
 
----
-
 ## Oi! 👋 I'm Weiguang Li
 
 Backend engineer with 5+ years building internet-scale services.  
@@ -22,19 +20,13 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
 - 🛠️ Open to collaborate: practical AI + backend projects
 - ✅ Open to work: on-site or remote
 
----
-
 ### 🛠 My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,go,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=8" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 ![Metrics](https://metrics.lecoq.io/OiPunk?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FShanghai)
-
----
 
 ### 🐍 My Contributions Snake
 <p align="center">
@@ -44,8 +36,6 @@ Now fully embracing AI — learning modern AI/agent architectures and contributi
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
----
 
 ### 📫 How to reach me
 <p align="center">
