@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="OiPunk profile header"
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=🐈&fontSize=45&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=🐱&fontSize=30&animation=fadeIn&fontAlignY=38"
     width="100%" />
 </p>
 
