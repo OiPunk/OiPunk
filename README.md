@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### Oi! 👋 I'm Weiguang Li
+### Oi! I'm Weiguang Li
 
 \- Backend engineer with 5+ years building internet-scale services.  
 \- Now fully embracing AI — learning modern AI/agent architectures and contributing to open source.
@@ -30,6 +30,7 @@
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
 </p>
 
+#### 💻 GitHub
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake-dark.svg" />
