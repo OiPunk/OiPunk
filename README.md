@@ -16,12 +16,10 @@
 - Currently learning: LLM • AI Agents • MLOps fundamentals
 - Open to work: on-site / remote
 
-#### 🛠 Stack
 <p align="center">
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
 </p>
 
-#### 💻 GitHub
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake-dark.svg" />
