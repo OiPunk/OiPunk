@@ -14,7 +14,7 @@
 \- Fully embracing AI — learning AI/agent architectures and contributing to open source.
 \- Open to work: on-site / remote
 
---- 
+<br />
 
 <p align="center">
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,spring,python,go,aws,redis,mysql,postgres,kafka,docker,kubernetes,linux,git,githubactions&perline=14" />
