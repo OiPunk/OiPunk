@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="OiPunk profile header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img alt="OiPunk profile header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Oi!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -31,6 +31,14 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=OiPunk&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
@@ -44,12 +52,4 @@
 <p align="center">
   <img alt="Repos per language card" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OiPunk&theme=github_dark" />
   <img alt="Most commit language card" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OiPunk&theme=github_dark" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OiPunk/OiPunk/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
